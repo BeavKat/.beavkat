@@ -69,5 +69,6 @@ If you’re aligned with the mission and curious about future collaboration, fee
 
 **Ellie** – Co-Founder / Engineer  
 `elliehong13 [at] gmail.com`
-**Sean** - Co-Founder / Engineer
+
+**Sean** - Co-Founder / Engineer   
 `sean.hs.hong [at] gmail.com`
